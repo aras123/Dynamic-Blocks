@@ -146,7 +146,7 @@ add_action('wp_ajax_dynamics_blocks_add_editor', function () {
 
 /**
  * Shortcode for template
- * Example: [dynamic_blocks root-class='col-lg-3' template='<div class="dynamic-blocs-single"><h2>{title}</h2><br>{content}</div>']
+ * Example: [dynamic_blocks root-class='col-lg-3' template='<div class="dynamic-blocks-single"><h2>{title}</h2><br>{content}</div>']
  */
 function dynamic_blocks_shortcode($atts)
 {
