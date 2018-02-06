@@ -7,7 +7,7 @@ Examples:
 
 Shortcode:
 ```html
-[dynamic_blocks root-class='col-lg-3' template='<div class="dynamic-blocs-single"><h2>{title}</h2><br>{content}</div>']
+[dynamic_blocks root-class='col-lg-3' template='<div class="dynamic-blocks-single"><h2>{title}</h2><br>{content}</div>']
 ```
 Function PHP for template (array):
 ```php
