@@ -1,6 +1,8 @@
 # Dynamic-Blocks
 Plugin Wordpress
 
+Preview: https://i.imgur.com/juyGDTO.png
+
 Examples:
 
 Shortcode:
